@@ -1,4 +1,4 @@
-# Applicant Name
+# Chelle
 Key:
 
 :black_square_button: unasked question
@@ -77,5 +77,5 @@ Key:
 ### :ballot_box_with_check: What does a left join do?
 > Selects all data from the "left" table and all matching data from the right table.
 
-### :black_square_button: What type of query would you use to add data to the database?
+### :white_check_mark: What type of query would you use to add data to the database?
 > INSERT
