@@ -3,7 +3,7 @@
 
 ## PHP Questions:
 
-### Explain the difference between $_GET and $_POST
+### :white_check_mark: Explain the difference between $_GET and $_POST
 > $_GET contains "http GET" request data, for instance the key/value pairs in the querystring. $_POST contains the data from an "http POST" request. 
 
 ### What is the difference between a while loop and a do-while loop?
