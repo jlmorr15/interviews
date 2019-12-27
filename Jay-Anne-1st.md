@@ -71,7 +71,7 @@ Key:
 
 ## Basic Database Questions:
 
-### :/: What is a basic query to pull all rows from the table "A" that has the value 123 in column "C"
+### :ballot_box_with_check: What is a basic query to pull all rows from the table "A" that has the value 123 in column "C"
 > SELECT * FROM A WHERE C=123;
 
 ### :white_check_mark: What does a left join do?
