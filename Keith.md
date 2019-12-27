@@ -44,21 +44,21 @@ Key:
 
 ## Laravel Questions:
 
-### :black_square_button: How would you make a model in Laravel?
+### :white_check_mark: How would you make a model in Laravel?
 > php artisan make:model [options] ModelName
 
-### :black_square_button: What is the purpose of the .env file?
+### :white_check_mark: What is the purpose of the .env file?
 > Stores environment variables
 - Elaborate?
 > Stores environment variables specific to a development/production environment, for instance a local DB host at 127.0.0.1 for dev or a production DB etc.
 
-### :black_square_button: How would you express (in a method) that a model is the child in a one-to-many relationship with another model?
+### :white_check_mark: How would you express (in a method) that a model is the child in a one-to-many relationship with another model?
 > it will have a method returning $this->belongsToMany() ...
 
 ### :x: Can you give me an example of a polymorphic relationship in laravel?
 > Address model that can be owned by multiple types of models in the system like users, orders, companies, etc.
 
-### :black_square_button: If you have a bunch of search results but you only want to display 25 per page, how would you handle that?
+### :white_check_mark: If you have a bunch of search results but you only want to display 25 per page, how would you handle that?
 > Fetch the data with paginate method instead of get(). $results->paginate(25)
 
 ### :x: What does the @can blade directive do?
