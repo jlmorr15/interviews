@@ -1,4 +1,9 @@
 # Applicant Name
+Key:
+:black_square_button: -> unasked question
+:white_check_mark: -> Correct Answer
+:ballot_box_with_check: -> Partially Correct Answer
+:x: -> Incorrect Answer
 ---
 
 ## PHP Questions:
@@ -20,7 +25,7 @@
 
 ### :black_square_button: What is the difference between include and require?
 > Include will emit a warning on a missing file, require will emit a fatal error on a missing file.
-- Follow-up: What is the difference between require and require_once?
+#### :black_square_button: Follow-up: What is the difference between require and require_once?
 > Require Once will check to see if the file has already been included, and if it has, not include it again.
 
 ### :black_square_button: What is a recursive method?
