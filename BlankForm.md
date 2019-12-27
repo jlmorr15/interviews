@@ -1,8 +1,12 @@
 # Applicant Name
 Key:
+
 :black_square_button: unasked question
+
 :white_check_mark: Correct Answer
+
 :ballot_box_with_check: Partially Correct Answer
+
 :x: Incorrect Answer
 
 ---
